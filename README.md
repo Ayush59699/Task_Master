@@ -15,7 +15,7 @@ $ virtualenv env
 
 3. Then run the command:
 ```
-$ .\env\Scripts\activate# Task_Master
+$ .\env\Scripts\activate
 ```
 
 4. Then install the dependencies:
